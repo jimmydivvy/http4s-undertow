@@ -1,0 +1,5 @@
+target
+*.class
+quickstart-assembly-0.0.1-SNAPSHOT
+.idea
+*.iml
